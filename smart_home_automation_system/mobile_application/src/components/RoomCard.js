@@ -9,5 +9,5 @@ const RoomCard = ({ room, onPress }) => {
     </TouchableOpacity>
   );
 };
-
+//Important line
 export default RoomCard;
