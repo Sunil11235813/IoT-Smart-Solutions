@@ -1,0 +1,24 @@
+# OS generated files #
+.DS_Store             # macOS system file
+Thumbs.db             # Windows system file
+
+# Compiled files #
+*.o                   # Object files
+*.out                 # Compiled output files
+
+# Editor files #
+*~                    # Temporary files
+.vscode/              # Visual Studio Code specific folder
+.idea/                # IntelliJ IDEA project folder
+
+# Dependency directories #
+/node_modules/        # Node.js dependencies
+/.venv/               # Python virtual environment
+
+# Build artifacts #
+/build/               # Build output directory
+/dist/                # Distribution directory
+
+# Logs and backups #
+*.log                 # Log files
+*.bak                 # Backup files
